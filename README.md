@@ -44,8 +44,22 @@ To run a project, download this repository, open the project folder in your term
 
 **What needs to be done:** Real-world logic + multiple data relationships.
 
-## Technologies Used
+## 4. Simple Task Management Application ('task_management.py')
 
+- **Description:** A Command-Line To-Do List & Planner is a simple task management application that runs in terminal.
+
+**Features:**
+- Add a new task by providing its details.
+- Display all the tasks you have added.
+- Edit a task (search for the task using its ID and update its information).
+- Delete a task using its task ID.
+- Change a task status.
+- Sort tasks (By priority: High → Medium → Low).
+
+**What needs to be done:** Task organization + priority-based sorting + task status management.
+
+
+## Technologies Used
 - Python
 - Lists and Dictionaries
 - Functions
